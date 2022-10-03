@@ -1,10 +1,10 @@
+# add two numbers
 def adding(x,y):
     return x+y
 
-
+# subtract two numebrs
 def minus(x,y):
     return x-y
-
 
 x=5 # first argument
 y=3 # second argument
