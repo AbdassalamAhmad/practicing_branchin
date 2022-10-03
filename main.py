@@ -6,8 +6,8 @@ def minus(x,y):
     return x-y
 
 
-x = 5
-y = 3
+x=5 # first argument
+y=3 # second argument
 
 print (adding(x,y))
 print (f"x-y = {minus(x,y)}")
