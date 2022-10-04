@@ -6,7 +6,7 @@ def adding(x,y):
 def minus(x,y):
     return x-y
 
-# divide two numbers
+# divide x by y
 def divide(x,y):
     return x/y
 
