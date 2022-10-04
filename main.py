@@ -6,6 +6,10 @@ def adding(x,y):
 def minus(x,y):
     return x-y
 
+# multiply x by y
+def multiply(x,y):
+    return x*y
+
 # divide x by y
 def divide(x,y):
     return x/y
@@ -13,9 +17,8 @@ def divide(x,y):
 x = 5 # first argument
 y = 3 # second argument
 
-print (adding(x,y))
-
+print (f"x+y = {adding(x,y)}")
 print (f"x-y = {minus(x,y)}")
-
+print (f"x*y = {multiply(x,y)}")
 print (f"x/y = {divide(x,y)}")
 
