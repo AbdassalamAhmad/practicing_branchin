@@ -6,8 +6,10 @@ def adding(x,y):
 def minus(x,y):
     return x-y
 
+# divide two numbers
 def divide(x,y):
     return x/y
+
 x=5 # first argument
 y=3 # second argument
 
