@@ -17,8 +17,12 @@ def divide(x,y):
 x = 5 # first argument
 y = 3 # second argument
 
+x = int(input("x: "))
+y = int(input("y: ")) 
+
 print (f"x+y = {adding(x,y)}")
 print (f"x-y = {minus(x,y)}")
 print (f"x*y = {multiply(x,y)}")
 print (f"x/y = {divide(x,y)}")
+
 
