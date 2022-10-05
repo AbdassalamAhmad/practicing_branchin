@@ -14,11 +14,8 @@ def multiply(x,y):
 def divide(x,y):
     return x/y
 
-x = 5 # first argument
-y = 3 # second argument
-
-x = int(input("x: "))
-y = int(input("y: ")) 
+x = int(input("x: ")) # first argument
+y = int(input("y: ")) # second argument
 
 print (f"x+y = {adding(x,y)}")
 print (f"x-y = {minus(x,y)}")
