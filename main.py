@@ -23,4 +23,3 @@ print (f"x*y = {multiply(x,y)}")
 print (f"x/y = {divide(x,y)}")
 
 # add a new COMMENT here.
-# add new comment in main.py
