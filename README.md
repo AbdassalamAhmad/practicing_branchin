@@ -8,8 +8,4 @@ it do simple calculations on two numbers like (+, -, *, /).
 # do a conflict.
 # comment from depl
 
-# add new comment from feature bracnh
-# new line
 
-
-# hello from main
