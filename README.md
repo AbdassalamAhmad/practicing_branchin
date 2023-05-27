@@ -4,5 +4,3 @@
 it do simple calculations on two numbers like (+, -, *, /).
 
 # add one
-
-# 1
